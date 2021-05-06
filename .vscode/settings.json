@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/asigdel/OneDrive - A.T. Kearney/Downloads/postgresql-42.2.20.jar"
+    ]
+}
